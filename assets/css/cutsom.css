@@ -1,0 +1,822 @@
+@media (max-width: 1999px) and (min-width: 999px) {
+  .tp-offcanvas-2-area.offcanvas-2-white-bg .tp-offcanvas-2-bg.is-left {
+    background: transparent;
+  }
+}
+@media (max-width: 1930px) and (min-width: 1549px) {
+.container-largee-one {
+    padding: 0 11%;
+}.whoweare-komquest-new {
+    padding: 190px 0px;
+}.whoweare-komquest-new p {
+    font-size: 19px;
+    line-height: 27px;
+}.whoweare-komquest-new p.small-text-para {
+    font-size: 16px;
+    line-height: 24px;
+    padding: 10px 0px;
+}.email-solutions {
+    padding: 88px 0px;
+}.email-solu-komquest-new {
+    height: 523px;
+}.erp-solutions-komquest {
+    padding: 85px 0px;
+}.headding-row {
+    margin-bottom: 3%;
+}.cukkr-wrap-content h6 {
+    line-height: 17px;
+}
+.cukkr-wrap-content p
+ {
+    font-size: 14px;
+    color: #5f5f5f;
+    line-height: 19px;
+}
+.cukkr-wrap-content h6 a {
+    font-size: 12px;
+}.tp-service-area {
+    padding-bottom: 14%;
+}
+}
+@media (max-width: 1999px) {
+  .tp-offcanvas-2-right-info-box.mt-160 {
+    margin-top: 90px;
+  }
+
+  .tp-offcanvas-2-wrapper .left-box {
+    display: none;
+  }
+
+  .tp-offcanvas-2-wrapper .right-box {
+    width: 35%;
+  }
+
+  .tp-offcanvas-2-right-info-box {
+    padding: 0 75px;
+  }
+
+  .tp-offcanvas-2-bg.right-box {
+    width: 35%;
+  }
+
+  .email-solutions a.email-solu-btn {
+    padding: 26px 18px;
+    width: 16%;
+  }
+
+  .email-solutions .email-first-part {
+    gap: 30px;
+  }
+
+  .email-solutions .text-heading h2 {
+    padding-bottom: 0;
+  }
+
+  .btn-group-es-sec {
+    justify-content: flex-start;
+  }
+  .on-hover-content-change-kom {
+    left: auto;
+}.email-solu-komquest-new .eskn-nav-item{
+ 
+    padding: 0;
+    font-size: 16px;
+ }.email-solu-komquest-new * {
+    gap: 26px;
+ }.on-hover-content-change-kom .para p {
+    font-size: 15px;
+ }.services-wrapper-1 {
+    margin-top: -500px;
+}.service-box-1 {
+   
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}.service-area.rr-ov-hidden .rr-container-1650 {
+    padding: 0 0%;
+}.ek-row .ek-row-one {
+    margin: 8% 0 12% 0;
+}.ambigious-komquest .container {
+    padding: 0 5%;
+    max-width: 100%;
+}.ambigious-komquest h4 {
+    padding-left: 0;
+    font-size: 27px;
+    line-height: 43px;
+}.ambigious-komquest p {
+    font-size: 16px;
+    line-height: 23px;
+    width: 20%;
+    letter-spacing: -0.4px;
+}.clinets-section-kom .text-heading h2 {
+    font-size: 30px;
+    line-height: 42px;
+    width: 56%;
+}
+}
+@media (max-width: 1599px) {
+.slider-content h2 {
+    line-height: 49px;
+    font-size: 40px;
+    }footer h1.footer-main-text {
+    font-size: 140px;
+    }  .email-solu-komquest-new * {
+        gap: 10px;
+    }    .email-solu-komquest-new .eskn-nav-item {
+        font-size: 14px;
+    }    .services-wrapper-1 {
+        margin-top: -400px;
+    }       .service-box-1 {
+        height: 318px;
+    }    .service-area.rr-ov-hidden .rr-container-1650 {
+        padding: 0 5%;
+    }    .ambigious-komquest h4 {
+        font-size: 23px;
+        line-height: 35px;
+    }.tp-service-area    .tp-section-title {
+        font-size: 36px;
+    }.tp-service-content .tp-section-title , .tp-service-content p, .tp-service-content .tp-service-btn{
+    margin-bottom: 35px;
+}.tp-service-area {
+    padding-bottom: 30%;
+}
+}
+
+
+@media (max-width: 1499px) {
+      
+.slider-content h2 {
+     line-height: 42px;
+    font-size: 39px;
+  
+}.email-solu-komquest-new .eskn-bottom-nav {
+    width: 50%;
+}.who-we-are-img .whowewre-content p {
+    width: 70%;
+}.career-left-warp h1 {
+    font-size: 45px;
+    line-height: 53px;
+}.career-left-warp {
+    width: 100%;
+}.client-komquest .text-heading h2 {
+    font-size: 34px;
+    line-height: 44px;
+}.swiper-container.clients-home-active img {
+    max-width: 178px;
+}.text-heading h1 {
+    font-size: 102px;
+    line-height: 92px;
+}.studio-team-area .text-heading h1 {
+    font-size: 100px;
+    line-height: 104px;
+}footer h1.footer-main-text {
+    font-size: 115px;
+    line-height: 125px;
+}.kgp-content h3 {
+    font-size: 40px;
+    line-height: 48px;
+}.kgp-content {
+    width: 36%;
+}ul.list-style1 li {
+    font-size: 17px;
+    line-height: 27px;
+}ul.list-style1 li br{
+    display:none;
+}
+.tp-offcanvas-2-area .tp-offcanvas-menu > nav > ul > li > a {
+    font-size: 33px;
+}.tp-offcanvas-2-area .tp-offcanvas-menu ul > li:not(:last-child) {
+    margin-bottom: 35px;
+}.komquest-breadcrumb-left-wrap p {
+    font-size: 17px;
+    line-height: 28px;
+}.bik-text h1 {
+    font-size: 102px;
+}.aui-content-wrap {
+    width: 95%;
+    padding-left: 5%;
+}.auir h2 {
+    font-size: 24px;
+    line-height: 34px;
+}.aui-content-wrap .text-heading h2 {
+    font-size: 40px;
+    line-height: 48px;
+}.tp-hero-ai-title {
+    font-size: 110px;
+    line-height: 120px;
+}.tp-hero-ai-dec {
+    margin-right: 30px;
+}.tp-hero-ai-dec-title {
+    font-size: 75px;
+}.tp-hero-ai-thumb-text {
+    font-size: 106px;
+    left: -19px;
+}.tp-blog-sa-title-wrap p br{
+display:none;
+}a.rounded-btn-cta {
+    top: 57%;
+}	
+.cta-area svg {
+    max-width: 27%;
+    right: 0%;
+    bottom: 0;
+}    .service-area.rr-ov-hidden .rr-container-1650 {
+        padding: 0 7%;
+    }.phone-mockup {
+    width: 410px;
+    height: 760px;
+    padding: 20px;
+    }	
+	.service-box-1 {
+        height: 100%;
+    }    .services-wrapper-1 {
+        margin-top: -545px;
+    }    .ambigious-komquest h4 {
+        font-size: 21px;
+        line-height: 30px;
+    }.why-kom-row-n .swiper-slide.wkr-wrap-main {
+    height: 360px;
+    }.text-heading h2 br{
+        display:none;
+    }.serv-page-innersec.email-solutions .text-heading h2 {
+    font-size: 44px;
+    line-height: 44px;
+    } .crp-about-area   .tp-section-title-teko {
+        font-size: 46px;
+        line-height: 56px;
+    }
+}
+@media (max-width: 1399px) {
+    
+.breadcrum-right h2 {
+    font-size: 50px;
+    line-height: 60px;
+}.crp-about-exp-item span {
+    font-size: 140px;
+    margin-bottom: 31px;
+    }
+.tp-career-title {
+    font-size: 75px;
+    line-height: 81px;
+}.tp-career-title br{
+	display:none;
+}.header-transparent .container.container-1830 {
+    max-width: 100%;
+    padding: 0 1%;
+}    .email-solu-komquest-new .eskn-bottom-nav {
+        width: 55%;
+    }    .service-area.rr-ov-hidden .rr-container-1650 {
+        padding: 0 1%;
+    }    .ambigious-komquest h4 {
+        font-size: 19px;
+        line-height: 29px;
+    }    .ambigious-komquest p {
+        font-size: 15px;
+        line-height: 22px;
+        width: 24%;
+    }.clients-review .text-heading h2 {
+    font-size: 29px;
+    line-height: 38px;
+    }.tp-header-menu > nav > ul > li > a {
+    font-size: 14px;
+}
+    .creative-service-item.about-us-4 .creative-service-title {
+        font-size: 78px;
+    }
+
+}
+
+@media (max-width: 999px) {
+    .who-we-are-img .whowewre-content p {
+        width: 100%;
+    }.about-home-komquest img {
+    margin-top: 15px;
+}.about-home-komquest .about-home-wrap {
+    width: 100%;
+}.about-home-komquest .container, .techstack-weuse .container {
+    width: 100%;
+    padding: 0 2%;
+}.ek-row .ek-row-one {
+    margin: 5% 0;
+}.ek-row h1 {
+    font-size: 85px;
+}.stp-one h1 {
+    font-size: 40px;
+}.stp-one p {
+    font-size: 15px;
+    line-height: 20px;
+    width: 90%;
+}.portfolio-content-home {
+    bottom: 45px;
+    right: 0px;
+    width: 50%;
+}.clients-home-active {
+    margin-top: 2%;
+}.three-wrap-komquest {
+    padding: 0px 0 35px 0;
+    margin-top: 0;
+}    .text-heading h1 {
+        font-size: 55px;
+}.client-komquest {
+    padding-bottom: 0;
+}    .studio-team-area .text-heading h1 {
+        font-size: 75px;
+        line-height: 85px;
+    }.studio-team-thumb {
+    margin-bottom: 0;
+}      footer h1.footer-main-text {
+        font-size: 60px;
+        line-height: 70px;
+    }   footer h1.footer-main-text br{
+       display:none;
+    }    .kgp-content h3 {
+        font-size: 24px;
+        line-height: 33px;
+    }    .kgp-content {
+        width: 60%;    top: -32px;
+    }.qodef-e-decoration svg {
+    width: 42px;
+}    .tp-offcanvas-2-area .tp-offcanvas-menu > nav > ul > li > a {
+        font-size: 22px;
+    }    .tp-offcanvas-2-area .tp-offcanvas-menu ul > li:not(:last-child) {
+        margin-bottom: 27px;
+    }.breadcrum-right h2 {
+    font-size: 35px;
+    line-height: 45px;
+	}.breadcrum-right h6 {
+    font-size: 15px;
+	}    .bik-text h1 {
+        font-size: 70px;
+    }.aui-image-wrap img.last-img {
+    margin-bottom: 15px;
+}    .aui-content-wrap {
+        width: 100%;
+        padding-left: 1%;
+    }.ar-funfact-item {
+    margin-bottom: 15px;
+}.tp-service-fst-row {
+    width: 100%;
+    margin-bottom: 2%;
+}.certified-partnerss-used h2, .tp-service-area .text-heading h2 {
+    font-size: 37px;
+    line-height: 47px;
+}.tp-service-item {
+    padding: 40px 0;
+}    .tp-service-number {
+        display: none;
+    }    .tp-section-title {
+        font-size: 30px;
+        line-height: 40px;
+    }      .tp-hero-ai-title {
+        font-size: 80px;
+        line-height: 90px;
+   letter-spacing: -1.8px;
+        margin-bottom: 35px;
+    } .tp-hero-ai-title br, a.rounded-btn-cta{
+       display:none;
+	}.tp-hero-ai-right-content {
+    margin-bottom: 35px;
+}.tp-blog-sa-title-wrap {
+    margin-bottom: 15px;
+}.cta-area h1 {
+    font-size: 90px;
+    line-height: 130px;
+}.cta-area {
+    padding: 60px 0px;
+}a.lets-talk-btn {
+    font-size: 19px;
+}.slider-content {
+    width: 70%;
+}    .slider-content h2 {
+        line-height: 49px;
+        font-size: 39px;
+    }
+}
+
+@media (max-width: 800px) {
+    .tp-offcanvas-2-wrapper .right-box {
+        width: 40%;
+    }    .tp-offcanvas-2-right-info-box {
+        padding: 0 40px;
+    }
+.tp-header-box.text-center {
+    display: none;
+}    .tp-offcanvas-2-wrapper .left-box {
+        display: block;
+    }ul.oneeee {
+    display: none;
+}.tp-offcanvas-2-area.offcanvas-2-white-bg .tp-offcanvas-menu > nav > ul > li > a {
+    color: #0000007a;
+}    .tp-offcanvas-2-wrapper .right-box {
+        background: whitesmoke;
+    }.why-kom-row-n {
+    overflow: hidden;
+}.whoweare-komquest-new {
+    padding: 60px 0px;
+}.es-images {
+    margin-top: 3%;
+}    .email-solu-komquest-new * {
+        gap: 0;
+    }    .email-solu-komquest-new .eskn-nav-item {
+        font-size: 14px;
+    }.email-solu-komquest-new .eskn-bottom-nav {
+        width: 100%;
+        padding: 2% 0;        gap: 15px;
+    }.email-solu-komquest-new .para {
+    width: 100%;
+}.on-hover-content-change-kom {
+    flex-direction: column;
+}.tp-btn-circle-2{
+    display:none !important;
+}    .phone-mockup, .add {
+        display: none;
+    }    .services-wrapper-1 {
+        margin-top: 0;
+    }.services-wrapper-1 {
+    grid-template-columns: repeat(3, 1fr);
+    }.service-box-1 {
+    padding: 25px 40px;
+
+    }
+        .service-box-1 {
+        height: auto;
+    }    .service-box-1 .thumb img {
+        height: 35px;
+    }    .service-box-1 .content {
+        margin-top: 100px;
+    }.text-heading h2{s
+ 
+    font-size: 28px;
+    line-height: 34px;
+ }.ek-row h1 {
+        font-size: 70px;
+    }    .stp-one h1 {
+        font-size: 36px;
+    }    .ambigious-komquest p {
+        width: 92%;
+    }.ambigious-komquest {
+    min-height: 395px;
+    }.studio-team-area .text-heading h2 {
+    font-size: 32px;
+    line-height: 36px;
+    }    .clinets-section-kom .text-heading h2 {
+        font-size: 26px;
+        line-height: 38px;
+        width: 85%;
+    }.clients-wrapper-kom-new {
+    margin-bottom: 5%;
+}.cukkr-wrap {
+    margin-bottom: 8px;
+}
+}
+
+
+
+@media (max-width: 599px) {
+        .tp-career-title {
+        font-size: 30px;
+        line-height: 35px;
+        letter-spacing: -2.2px;
+    }.tp-about-text p {
+    font-weight: 400;
+            font-size: 27px;
+        line-height: 32px;
+        letter-spacing: -1.2px;
+    margin-right: 25px;
+    margin-bottom: 45px;
+    width: 95%;
+}.tp-section-subtitle {
+    font-size: 13px;
+}
+    .breadcrumb.p-relative {
+    height: 250px;
+    }.breadcrumb h6 {
+    font-size: 27px;
+    }
+        .slider-content h2 {
+        line-height: 28px;
+        font-size: 25px;
+    }.slider-content {
+    top: 27%;}.desk {
+    display: block;
+}.slider-content h2 {
+    margin-bottom: 20px;}.mob {
+    display: none;
+}.st-award-wrapper {
+    margin-left: 0%;
+}    .st-award-wrapper .ar-award-right-wrap .ar-award-item .ar-award-box-left {
+        margin-bottom: 0px;
+    }.st-award-wrapper .ar-award-right-wrap .ar-award-item .ar-award-box-left .ar-award-title {
+    font-size: 25px;
+	}.ar-award-box-left a {
+    margin: 10px 0;
+	}    .st-award-ptb {
+        margin-bottom: 0;
+    }    .text-heading h2 {
+        font-size: 26px;
+        line-height: 34px;
+    }.who-we-are-wrap {
+    width: 100%;
+}.who-we-are-img {
+    margin-top: 5%;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 0%;
+}.about-home-komquest ul.list-style li {
+    font-size: 16px;
+    line-height: 25px;
+}.about-home-komquest p {
+    font-size: 16px;
+    line-height: 25px;
+    margin-bottom: 0;
+}    .ek-row h1 {
+        font-size: 70px;
+    }    .ek-row .ek-row-one {
+        margin: 8% 0;
+    }.sec-three-points {
+    flex-direction: column;
+	}.ar-service-title {
+    font-size: 25px;
+    line-height: 40px;
+	}    .portfolio-content-home {
+        width: 75%;
+    }.portfolio-content-home p {
+    margin-bottom: 10px;
+}.digital-solutions-komquest .text-heading h2 {
+    font-size: 35px;
+    line-height: 45px;
+}    .career-left-warp h1 {
+        font-size: 35px;
+        line-height: 45px;
+    }.career-left-warp {
+    padding: 30px;
+}.career-left-warp p {
+    padding: 15px 0;
+    font-size: 16px;
+    line-height: 26px;
+    width: 100%;
+}form.home-form {
+    flex-direction: column;
+}button.input-button.submit {
+    padding: 10px 20px;
+    width: 42%;
+}.header-transparent {
+    z-index: 99;
+    padding: 20px ;
+}.solu-btn-wrap {
+    z-index: 1;
+}    .client-komquest .text-heading h2 {
+        font-size: 31px;
+        line-height: 41px;
+    }    .text-heading h1 {
+        font-size: 42px;
+    }.three-wrap-home .twh-one {
+    flex-direction: column;
+    gap: 7px;
+}.three-wrap-home {
+    width: 99%;
+}.three-wrap-home .twh-one p {
+    font-size: 16px;
+    width: 100%;
+    line-height: 26px;
+}.three-wrap-home .twh-one h4 {
+    font-size: 26px;
+}    .studio-team-area .text-heading h1 {
+        font-size: 60px;
+        line-height: 70px;
+    }.stt-wrap p {
+    font-size: 18px;
+    line-height: 28px;
+	}.stt-wrap {
+    margin-bottom: 30px;
+}    footer h1.footer-main-text {
+        font-size: 39px;
+        line-height: 65px;
+    }    .kgp-content {
+        width: 95%;
+        top: 10px;
+        position: relative;
+    }footer {
+    padding: 40px 0 20px 0;
+}    .kgp-content h3 {
+        font-size: 20px;
+        line-height: 25px;
+    }.komquest-innner-braedcrumb {
+    padding: 16% 0 5% 0;
+}.year-of-eperience-wrap {
+    margin-top: 7%;
+    margin-bottom: 5%;
+}.komquest-breadcrumb-left-wrap h2 {
+    font-size: 75px;
+}    .breadcrum-right h2 {
+        font-size: 27px;
+        line-height: 39px;
+    }    .bik-text h1 {
+        font-size: 45px;
+    }.bik-text {
+    padding: 30px 0;
+}.auir h2 {
+    bottom: auto;
+    top: 5%;
+}.breadcrum-image-komquest {
+    min-height: 180px;
+}    .aui-content-wrap .text-heading h2 {
+        font-size: 36px;
+        line-height: 46px;
+    }    .certified-partnerss-used h2, .tp-service-area .text-heading h2 {
+        font-size: 29px;
+        line-height: 39px;
+    }.tp-service-area .container-one {
+    padding: 0 10px;
+}.sec-pad {
+    padding: 35px 0px;
+}       .tp-hero-ai-title {
+        font-size: 45px;
+        line-height: 55px;
+    }    .tp-hero-ai-thumb-text {
+        font-size: 78px;
+        left: -14px;
+    }    .tp-hero-ai-dec {
+        margin-right: 0;
+        margin-left: 0;
+    }    .tp-hero-ai-dec-title {
+        font-size: 60px;
+        margin-bottom: 0;
+    }.tp-hero-ai-dec p {
+    margin-bottom: 10px;
+}    .cta-area h1 {
+        font-size: 60px;
+        line-height: 90px;
+    }    a.lets-talk-btn {
+        font-size: 17px;
+    }.tp-service-5-features-ptb{
+		display:none;
+	}.career img {
+    max-width: 75px;
+    margin-bottom: 15px;
+}    .stp-one h1 {
+        font-size: 40px;
+    }.menu-middle-part {
+    display: none;
+}.why-get-in-touch-warp {
+    flex-direction: column;
+}.why-get-in-touch-warp p {
+    padding-bottom: 15px;
+    width: 100%;
+}.email-solutions .text-heading h2 {
+    font-size: 21px;
+    line-height: 26px;
+}.es-images {
+        margin-top: 5%;
+    }    .email-solutions a.email-solu-btn {
+        padding: 22px 15px;
+        width: 20%;
+    }    .email-solu-komquest-new .eskn-nav-item {
+        font-size: 10px;
+    }    .on-hover-content-change-kom .para p {
+        font-size: 13px;
+    }.erp-solutions-komquest .text-heading h2 {
+    font-size: 23px;
+    line-height: 30px;
+    width: 100%;
+}.text-heading h2 br{
+    display:none;
+}.services-wrapper-1 {
+        grid-template-columns: repeat(2, 1fr);
+    }    .studio-team-area .text-heading h2 {
+        font-size: 23px;
+        line-height: 32px;
+    }.studio-team-area .container-largee-two, .blogs-komquest-new .container-largee-two, .clients-review .container-largee-two, .contact-us-komquest .container-largee-two {
+    padding: 0 10%;
+}.studio-team-area .text-heading h1 {
+    padding-left: 0;}
+    .studio-team-area .studio-team-thumb {
+    margin-bottom: 0;
+}    .clinets-section-kom .text-heading h2 {
+        font-size: 23px;
+        line-height: 32px;
+        width: 100%;
+    }.clients-komquest {
+    width: 100%;overflow:hidden;
+    }    .clients-review .text-heading h2 {
+        font-size: 24px;
+        line-height: 32px;
+    }.es-images img {
+    max-width: 81px;
+    }.btn-group-es-sec a.curved-btn, .btn-group-es-sec .curved-btn-transparent {
+    padding: 6px 21px;
+    font-size: 12px;
+}    .email-solu-komquest-new .eskn-bottom-nav {
+        gap: 6px;    flex-direction: row;
+    flex-wrap: wrap;
+    }.email-solu-komquest-new .eskn-nav-item {
+    width: 29%;
+}.tp-offcanvas-menu .tp-megamenu-list ul li a {
+    font-size: 14px;font-weight: 300;;
+}    .tp-offcanvas-2-area .tp-offcanvas-menu ul > li:not(:last-child) {
+        margin-bottom: 14px;
+    }    .tp-megamenu-title {
+        margin: 1% 0;
+        padding-bottom: 1%;
+    }    .tp-offcanvas-2-area .tp-offcanvas-menu > nav > ul > li > ul > li > a {
+        font-size: 17px;
+        line-height: 20px;
+    }.tp-offcanvas-2-area .tp-offcanvas-menu ul li .submenu {
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
+    .creative-service-item.about-us-4 .creative-service-title {
+        font-size: 35px;
+    }.serv-parallax-one {
+    height: 404px;
+    background-position: center;
+}.line-2{
+    display:none;
+}.web-serv-rightpart {
+    padding-left: 2%;
+    width: 100%;
+    padding-top: 4%;
+    position: relative;
+} .webservice-service-section   .text-heading h2 {
+        padding-bottom: 0px;
+    }.ssf-row-wrap-img img {
+    max-width: 54px;
+    padding-bottom: 25px;
+    }
+.ssf-row-wrap {
+    margin-bottom: 30px;
+    width: 100%;
+}
+.ssf-row-wrap h5 {
+    font-size: 22px;
+}.srgtwyd-wrap-img img {
+    margin-bottom: 9%;
+}.srgtwyd-wrap {
+    padding-left: 4%;
+}.srgtwyd-wrap::before {
+    height: 385px;
+}.three-points-one p.fst-para{
+    margin-bottom: 2%;
+}.three-points-one {
+    width: 95%;
+    padding-left: 8%;
+}.gtwyd-row-sec .three-points-one{
+    width:95%;
+}
+.sec-row-gtwyd a.curved-btn
+ {
+    display: none;
+}
+section.serv-page-faq p.onee {
+    width: 100%;
+}.serv-page-faq .container-largee-two {
+    padding: 0 6%;
+}.serv-page-faq .app-faq-wrap.faq-inner-style .ai-faq-accordion-wrap .accordion .accordion-items {
+    padding-left: 15px;
+}.serv-page-faq .app-faq-wrap.faq-inner-style .ai-faq-accordion-wrap .accordion .accordion-items .accordion-header .accordion-buttons {
+    font-size: 16px;
+}    .serv-page-innersec.email-solutions .text-heading h2 {
+        font-size: 34px;
+        line-height: 37px;
+    }    .serv-page-innersec.email-solutions .text-heading h2 br{
+        display:none;
+    }.email-second-part {
+    margin-top: 7%;
+}    .crp-about-exp-item span {
+        font-size: 64px;
+        margin-bottom: 17px;
+    }.crp-about-exp-item i {
+    font-size: 15px;
+    line-height: 16px;
+    }.crp-about-area .tp-section-title-teko {
+        font-size: 30px;
+        line-height: 40px;
+    }    .crp-about-area {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }.tp-benefit-ptb.clients .tp-benefit-item-title {
+    font-size: 17px;
+    }.tp-benefit-ptb.clients .tp-benefit-item {
+    padding: 30px;
+    }
+}
+@media(max-width:399px){
+
+    .service-box-1 .content {
+        margin-top: 65px;
+    }    .service-box-1 {
+        overflow: hidden;
+    }.services-wrapper-1 {
+    gap: 7px;
+    }.service-box-1 .content h3.title {
+    font-size: 17px;
+    line-height: 21px;
+    }    .ambigious-komquest h4 {
+        font-size: 17px;
+        line-height: 27px;
+    }    footer h1.footer-main-text {
+        font-size: 35px;
+        line-height: 50px;
+    }
+}
