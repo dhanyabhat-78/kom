@@ -116,6 +116,10 @@
 }
 }
 @media (max-width: 1599px) {
+    .main-sec-av-komquest h1 {
+    font-size: 76px;
+    line-height: 80px;
+    }
 .slider-content h2 {
     line-height: 49px;
     font-size: 40px;
@@ -248,7 +252,13 @@ display:none;
     }
 }
 @media (max-width: 1399px) {
-    
+    .main-sec-av-komquest h1 {
+        font-size: 65px;
+        line-height: 70px;
+    }.review-part-in-main h5 {
+    font-size: 18px;
+    line-height: 26px;
+    }
 .breadcrum-right h2 {
     font-size: 50px;
     line-height: 60px;
@@ -391,7 +401,11 @@ display:none;
 }    .slider-content h2 {
         line-height: 49px;
         font-size: 39px;
-    }
+    }button.tp-header-5-bar.tp-offcanvas-open-btn, .tp-header-5-menu-bar.col-xl-1.col-3 {
+    display: block;
+}.tp-header-btn-box.on-left{
+    display:none !important;
+}
 }
 
 @media (max-width: 800px) {
@@ -474,6 +488,17 @@ display:none;
 
 
 @media (max-width: 599px) {
+        .main-sec-av-komquest h1 {
+        font-size: 40px;
+        line-height: 47px;
+    }.main-sec-content p {
+    width: 85%;
+    font-size: 15px;
+    line-height: 24px;
+    }.main-sec-av-row-komquest::before, .main-sec-av-row-komquest::after{
+        display:none;
+    }
+    
         .tp-career-title {
         font-size: 30px;
         line-height: 35px;
@@ -799,6 +824,23 @@ section.serv-page-faq p.onee {
     font-size: 17px;
     }.tp-benefit-ptb.clients .tp-benefit-item {
     padding: 30px;
+    }
+}
+
+@media(max-width:499px){
+.review-part-in-main {
+    display: flex;
+    flex-direction: column;
+}    .review-part-in-main h5 {
+        font-size: 16px;
+        line-height: 24px;
+    }    .main-sec-av-komquest h1 {
+        font-size: 34px;
+        line-height: 40px;
+    }    .main-sec-content p {
+        width: 99%;
+        font-size: 14px;
+        line-height: 23px;
     }
 }
 @media(max-width:399px){
